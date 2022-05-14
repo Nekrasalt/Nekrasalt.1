@@ -34,7 +34,7 @@ li {
 }
 /* start of con1 */
 .con1 {
-  background-image: url(/images/back2.jpg);
+  background-image: url(images/back2.jpg);
   background-size: cover;
   height: 69vh;
   background-position: bottom;
@@ -124,16 +124,16 @@ li {
   opacity: 0.5;
 }
 .img1 {
-  background: url(/images/back1.jpg);
+  background: url(images/back1.jpg);
   background-size: cover;
 }
 
 .img2 {
-  background: url(/images/back3.jpg);
+  background: url(images/back3.jpg);
   background-size: cover;
 }
 .img3 {
-  background: url(/images/back5.jpg);
+  background: url(images/back5.jpg);
   background-size: cover;
 }
 /* subscribe email start */
